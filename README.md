@@ -1,4 +1,25 @@
-# 👋 About Me
+<!-- Profile Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giridharan%20B%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Computer%20Vision%20%7C%20Cybersecurity&descAlignY=60&descAlign=50" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/B-G-Giridharan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Software+Systems;AI+%7C+Machine+Learning+%7C+Computer+Vision;Full-Stack+Engineering+%7C+Cybersecurity;Exploring+Quantum+Computing+%26+Secure+Systems" />
+</p>
+
+---
+
+## 👋 About Me
 
 I’m **Giridharan B G**, a **Computer Science and Engineering student at Rajalakshmi Institute of Technology**, interested in engineering intelligent, data-driven, and security-oriented software systems.
 
