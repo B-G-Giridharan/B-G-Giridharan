@@ -45,24 +45,6 @@ I work across **Artificial Intelligence, Machine Learning, Full-Stack Developmen
 
 ---
 
-## 👋 About Me
-
-I’m **Giridharan B G**, a **Computer Science and Engineering student at Rajalakshmi Institute of Technology**, interested in engineering intelligent, data-driven, and security-oriented software systems.
-
-I work across **Artificial Intelligence, Machine Learning, Full-Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms**, with a focus on transforming problem statements into functional and extensible systems.
-
-* 🧠 Exploring **Machine Learning, Computer Vision & Intelligent Automation**
-* ⚙️ Building **API-driven, data-centric and full-stack applications**
-* 🔐 Interested in **Cybersecurity, Quantum Cryptography & Secure Computing**
-* 🔬 Engaged in **research, technical projects and hackathon-driven development**
-* 🚀 Currently working on **AI-powered academic and computer-vision systems**
-* 🎓 **CSE | Rajalakshmi Institute of Technology**
-* 👨‍💻 **Class Representative | CSE B | 2024–2028**
-* 🪖 **NCC Cadet**
-
----
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
