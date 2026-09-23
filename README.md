@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giridharan%20B%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AugumentedReality%20%7C%20FullStack%20%7C%20Computer%20Vision%20%7C%20Cybersecurity&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giridharan%20B%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AugmentedReality%20%7C%20FullStack%20%7C%20Computer%20Vision%20%7C%20Cybersecurity&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -26,11 +26,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Software+Systems;AI+%7C+Machine+Learning+%7C+Computer+Vision;Full-Stack+Engineering+%7C+Cybersecurity;Exploring+Quantum+Computing+%26+Secure+Systems" />
 </p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=B-G-Giridharan">
+    <img src="https://komarev.com/ghpvc/?username=B-G-Giridharan&label=Profile%20views&color=00FFFF&style=flat-square" alt="B-G-Giridharan's profile views" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 👋 About Me
 
-I’m **Giridharan B G**, a **Computer Science and Engineering student at Rajalakshmi Institute of Technology**, interested in engineering intelligent, data driven, and security oriented software systems.
+I’m **Giridharan B G** is a **Computer Science Engineer in a B.E. from Rajalakshmi Institute of Technology**, interested in engineering intelligent, Augmented Reality data driven, and security oriented software systems.
 
 I work across **Artificial Intelligence, Machine Learning, Full Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms**, with a focus on transforming problem statements into functional and extensible systems.
 
@@ -187,19 +199,23 @@ I work across **Artificial Intelligence, Machine Learning, Full Stack Developmen
 * Cybersecurity & Secure Communication
 * Quantum Computing & Quantum Cryptography
 * Distributed Systems & API Architecture
-* Full-Stack Application Engineering
+* Full Stack Application Engineering
 * Intelligent Automation
-* Data-Centric Software Systems
+* Data Centric Software Systems
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-G-Giridharan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-G-Giridharan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://github.com/B-G-Giridharan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-G-Giridharan&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="B-G-Giridharan's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=B-G-Giridharan&theme=merko&hide_border=true&cache_seconds=86400" alt="B-G-Giridharan's GitHub Streak" width="49%" />
 </p>
-
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=B-G-Giridharan&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=B-G-Giridharan&theme=tokyonight&hide_border=true" />
 </p>
