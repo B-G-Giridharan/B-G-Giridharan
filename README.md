@@ -178,21 +178,6 @@ I work across **Artificial Intelligence, Machine Learning, Full-Stack Developmen
 
 > 💡 *Explore all my repositories →* [*github.com/B-G-Giridharan*](https://github.com/B-G-Giridharan?tab=repositories)
 
-
-
-
-
-## 🏗️ Featured Projects
-
-| Project                              | Description                                                                                                                                                             | Technology                                                        |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 🧠 **AcadIntel**                     | AI-powered academic platform designed to transform academic workflows through intelligent, data-driven features.                                                        | AI/ML • Python • Web Technologies                                 |
-| 🖥️ **CPU Optimization**             | ML-assisted CPU scheduling and process telemetry system with remote machine monitoring, API communication and dashboard-based analysis.                                 | Python • Flask • Scikit-learn • MySQL • Pandas                    |
-| 🛡️ **SafeWalk**                     | Safety-oriented web application providing an interactive platform for personal safety workflows and QR-based functionality.                                             | React • TypeScript • Vite • Tailwind CSS                          |
-| 🐂 **Jallikattu**                    | Interactive surveillance dashboard designed for monitoring and visualizing surveillance-oriented data through a responsive interface.                                   | React • JavaScript • Vite • MUI • Recharts                        |
-| 🔍 **Counterfeit Product Detection** | Computer-vision-based system aimed at identifying counterfeit products through image-based analysis and intelligent detection techniques.                               | Python • Computer Vision • Machine Learning                       |
-| 🔐 **EaveGuard**                     | Quantum security project demonstrating Quantum Key Distribution using the BB84 protocol with an emphasis on detecting potential eavesdropping in quantum communication. | Qiskit • Quantum Computing • Quantum Cryptography • Cybersecurity |
-
 ---
 
 ## 🔬 Research & Technical Interests
