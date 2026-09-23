@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://b-g-giridharan.github.io/B-G-Giridharan_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/giridharan-bg/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,6 +13,9 @@
   </a>
   <a href="https://leetcode.com/u/B_G_Giridharan/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://b-g-giridharan.github.io/B-G-Giridharan_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://buymeacoffee.com/giridharan_bg">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
