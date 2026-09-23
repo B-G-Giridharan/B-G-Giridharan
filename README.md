@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giridharan%20B%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Augumented Reality%20%7C%20FullStack%20%7C%20Computer%20Vision%20%7C%20Cybersecurity&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Giridharan%20B%20G&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AugumentedReality%20%7C%20FullStack%20%7C%20Computer%20Vision%20%7C%20Cybersecurity&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
