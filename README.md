@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/B-G-Giridharan">
+  <a href="https://github.com/B-G-Giridharan](https://b-g-giridharan.github.io/B-G-Giridharan_Portfolio/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/giridharan-bg/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:[b.g.giri2006@gmail.com](mailto:b.g.giri2006@gmail.com)">
@@ -30,18 +30,16 @@
 
 ## 👋 About Me
 
-I’m **Giridharan B G**, a **Computer Science and Engineering student at Rajalakshmi Institute of Technology**, interested in engineering intelligent, data-driven, and security-oriented software systems.
+I’m **Giridharan B G**, a **Computer Science and Engineering student at Rajalakshmi Institute of Technology**, interested in engineering intelligent, data driven, and security oriented software systems.
 
-I work across **Artificial Intelligence, Machine Learning, Full-Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms**, with a focus on transforming problem statements into functional and extensible systems.
+I work across **Artificial Intelligence, Machine Learning, Full Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms**, with a focus on transforming problem statements into functional and extensible systems.
 
 * 🧠 Exploring **Machine Learning, Computer Vision & Intelligent Automation**
 * ⚙️ Building **API-driven, data-centric and full-stack applications**
 * 🔐 Interested in **Cybersecurity, Quantum Cryptography & Secure Computing**
 * 🔬 Engaged in **research, technical projects and hackathon-driven development**
-* 🚀 Currently working on **AI-powered academic and computer-vision systems**
-* 🎓 **CSE | Rajalakshmi Institute of Technology**
-* 👨‍💻 **Class Representative | CSE B | 2024–2028**
-* 🪖 **NCC Cadet**
+* 🚀 Currently working on **Automations, AI Augumented scalable Projects**
+
 
 ---
 
