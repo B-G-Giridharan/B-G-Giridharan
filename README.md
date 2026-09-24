@@ -42,7 +42,7 @@
 
 ## 👋 About Me
 
-I’m **Giridharan B G** is a **Computer Science Engineer in a B.E. from Rajalakshmi Institute of Technology**, interested in engineering intelligent, Augmented Reality data driven, and security oriented software systems.
+I’m **Giridharan B G** is a **Computer Science Engineer with a B.E. from Rajalakshmi Institute of Technology**, interested in engineering intelligent, Augmented Reality data driven, and security oriented software systems.
 
 I work across **Artificial Intelligence, Machine Learning, Full Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms**, with a focus on transforming problem statements into functional and extensible systems.
 
