@@ -47,7 +47,7 @@ I’m **Giridharan B G** a **Computer Science Engineer with a B.E. from Rajalaks
 I work across **Artificial Intelligence, Machine Learning, Full Stack Development, Computer Vision, Cybersecurity, and emerging computing paradigms** with a focus on transforming problem statements into functional and extensible systems.
 
 * 🧠 Exploring **Machine Learning, Computer Vision & Intelligent Automation**
-* ⚙️ Building **API-driven, data-centric and full-stack applications**
+* ⚙️ Building **API driven, data centric and full stack applications**
 * 🔐 Interested in **Cybersecurity, Quantum Cryptography & Secure Computing**
 * 🔬 Engaged in **research, technical projects and hackathon development**
 * 🚀 Currently working on **Automations, AI Augumented scalable Projects**
