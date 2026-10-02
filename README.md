@@ -211,7 +211,7 @@ I work across **Artificial Intelligence, Machine Learning, Full Stack Developmen
   <a href="https://github.com/B-G-Giridharan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=B-G-Giridharan&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="B-G-Giridharan's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=B-G-Giridharan&theme=merko&hide_border=true&cache_seconds=86400" alt="B-G-Giridharan's GitHub Streak" width="49%" />
+  
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=B-G-Giridharan&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
